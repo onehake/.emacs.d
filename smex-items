@@ -1,0 +1,28 @@
+
+;; ----- smex-history -----
+(
+ load-theme
+ recentf-mode
+ company-mode
+ undo
+ eshell
+ text-mode
+ hexl-mode
+)
+
+;; ----- smex-data -----
+(
+ (list-packages . 3)
+ (w3m . 2)
+ (set-input-method . 1)
+ (color-theme-select . 6)
+ (hexl-mode . 1)
+ (text-mode . 3)
+ (hexl-mode-exit . 1)
+ (eshell . 1)
+ (eshell-quit-process . 1)
+ (undo . 1)
+ (company-mode . 1)
+ (recentf-mode . 1)
+ (load-theme . 1)
+)
